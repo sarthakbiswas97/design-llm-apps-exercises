@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyd
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*venv/
+
+# My virtual environment
+myenv/
+
+# Environment variables
+.env
+.flaskenv
+
+# Editors
+.vscode
